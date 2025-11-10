@@ -1,16 +1,16 @@
-## Hi there 👋
+Python Intern Task - 1
 
-<!--
-**JyotirmaySinghRaghav/JyotirmaySinghRAghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Description
 
-Here are some ideas to get you started:
+This project is part of an internship task designed to test knowledge of-
+1 Using GET API's in Python  
+2 Handling JSON data 
+3 Using loops for iteration 
+4 Structuring a clean, readable Python script  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The program fetches user information from a public REST API's and displays selected details in a readable format.
+
+
+In this we can fetch data from the following API endpoint:
+
+
